@@ -1,0 +1,15 @@
+C:\Users\and\Desktop\GeekBrains\Learning_coding\Class 05\Practice_5\bin\Debug\net6.0\Practice_5.exe
+C:\Users\and\Desktop\GeekBrains\Learning_coding\Class 05\Practice_5\bin\Debug\net6.0\Practice_5.deps.json
+C:\Users\and\Desktop\GeekBrains\Learning_coding\Class 05\Practice_5\bin\Debug\net6.0\Practice_5.runtimeconfig.json
+C:\Users\and\Desktop\GeekBrains\Learning_coding\Class 05\Practice_5\bin\Debug\net6.0\Practice_5.dll
+C:\Users\and\Desktop\GeekBrains\Learning_coding\Class 05\Practice_5\bin\Debug\net6.0\Practice_5.pdb
+C:\Users\and\Desktop\GeekBrains\Learning_coding\Class 05\Practice_5\obj\Debug\net6.0\Practice_5.csproj.AssemblyReference.cache
+C:\Users\and\Desktop\GeekBrains\Learning_coding\Class 05\Practice_5\obj\Debug\net6.0\Practice_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\and\Desktop\GeekBrains\Learning_coding\Class 05\Practice_5\obj\Debug\net6.0\Practice_5.AssemblyInfoInputs.cache
+C:\Users\and\Desktop\GeekBrains\Learning_coding\Class 05\Practice_5\obj\Debug\net6.0\Practice_5.AssemblyInfo.cs
+C:\Users\and\Desktop\GeekBrains\Learning_coding\Class 05\Practice_5\obj\Debug\net6.0\Practice_5.csproj.CoreCompileInputs.cache
+C:\Users\and\Desktop\GeekBrains\Learning_coding\Class 05\Practice_5\obj\Debug\net6.0\Practice_5.dll
+C:\Users\and\Desktop\GeekBrains\Learning_coding\Class 05\Practice_5\obj\Debug\net6.0\refint\Practice_5.dll
+C:\Users\and\Desktop\GeekBrains\Learning_coding\Class 05\Practice_5\obj\Debug\net6.0\Practice_5.pdb
+C:\Users\and\Desktop\GeekBrains\Learning_coding\Class 05\Practice_5\obj\Debug\net6.0\Practice_5.genruntimeconfig.cache
+C:\Users\and\Desktop\GeekBrains\Learning_coding\Class 05\Practice_5\obj\Debug\net6.0\ref\Practice_5.dll
