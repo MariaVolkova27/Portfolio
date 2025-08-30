@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\maris\\OneDrive\\Desktop\\Portfolio\\C\u002B\u002B\\Curves\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DCDB57B8-4143-45D8-B112-04CA90E660D3}|Curves.vcxproj|C:\\Users\\maris\\OneDrive\\Desktop\\Portfolio\\C\u002B\u002B\\Curves\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCDB57B8-4143-45D8-B112-04CA90E660D3}|Curves.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DCDB57B8-4143-45D8-B112-04CA90E660D3}|Curves.vcxproj|C:\\Users\\maris\\OneDrive\\Desktop\\Portfolio\\C\u002B\u002B\\Curves\\curves.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DCDB57B8-4143-45D8-B112-04CA90E660D3}|Curves.vcxproj|solutionrelative:curves.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCDB57B8-4143-45D8-B112-04CA90E660D3}|Curves.vcxproj|C:\\Users\\maris\\OneDrive\\Desktop\\Portfolio\\C\u002B\u002B\\Curves\\curves.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DCDB57B8-4143-45D8-B112-04CA90E660D3}|Curves.vcxproj|solutionrelative:curves.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCDB57B8-4143-45D8-B112-04CA90E660D3}|Curves.vcxproj|C:\\Users\\maris\\OneDrive\\Desktop\\Portfolio\\C\u002B\u002B\\Curves\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DCDB57B8-4143-45D8-B112-04CA90E660D3}|Curves.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,33 +30,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\maris\\OneDrive\\Desktop\\Portfolio\\C\u002B\u002B\\Curves\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\maris\\OneDrive\\Desktop\\Portfolio\\C\u002B\u002B\\Curves\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-30T10:39:34.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "curves.cpp",
               "DocumentMoniker": "C:\\Users\\maris\\OneDrive\\Desktop\\Portfolio\\C\u002B\u002B\\Curves\\curves.cpp",
               "RelativeDocumentMoniker": "curves.cpp",
               "ToolTip": "C:\\Users\\maris\\OneDrive\\Desktop\\Portfolio\\C\u002B\u002B\\Curves\\curves.cpp",
               "RelativeToolTip": "curves.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-30T10:42:55.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\maris\\OneDrive\\Desktop\\Portfolio\\C\u002B\u002B\\Curves\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\maris\\OneDrive\\Desktop\\Portfolio\\C\u002B\u002B\\Curves\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-30T10:39:34.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "curves.h",
               "DocumentMoniker": "C:\\Users\\maris\\OneDrive\\Desktop\\Portfolio\\C\u002B\u002B\\Curves\\curves.h",
               "RelativeDocumentMoniker": "curves.h",
@@ -64,8 +64,7 @@
               "RelativeToolTip": "curves.h",
               "ViewState": "AgIAAFMAAAAAAAAAAAAAAFoAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-30T10:41:38.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T10:41:38.451Z"
             }
           ]
         }
