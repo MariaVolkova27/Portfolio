@@ -1,0 +1,5 @@
+﻿  curves.cpp
+C:\Users\maris\OneDrive\Desktop\Portfolio\C++\Curves\curves.cpp(29,29): warning C4101: e: неиспользованная локальная переменная
+  main.cpp
+  Создание кода...
+  Curves.vcxproj -> C:\Users\maris\OneDrive\Desktop\Portfolio\C++\Curves\x64\Debug\Curves.exe
